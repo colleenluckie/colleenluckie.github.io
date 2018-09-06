@@ -4,7 +4,7 @@ markdown:	kramdown
 permalink:	/blog/:title
 
 # Setup
-title:            Thinny
+title:            Title
 tagline:          'blog'
 description:      'My personal blog.'
 url:              http://colleenluckie.github.io
